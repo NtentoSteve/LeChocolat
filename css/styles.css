@@ -24,3 +24,22 @@ address{
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+.bg-light {
+    background-color: #dbb08d !important;
+}
+.table .thead-dark th{
+    color:floralwhite;
+    background-color:#6E3F19
+}
+tr:hover {background-color:#dbb08db0!important}
+
+.card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: red!important;
+    border-bottom: 1px solid black!important;
+}
